@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(181deg, rgba(225, 109, 245, 1) 6.9%, rgba(78, 248, 231, 1) 112.8%);
+    color: white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+
+p {
+    color: rgb(234, 250, 10);
+    font-weight: bold;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.items {
+    font-size: 20px;
+}
+
+label{
+    font-size: 23px;
+}
+
+button{
+    background-color: violet;
+    font-size: 20px !important;
+}
+
+.results{
+    color: yellow;
+}
+
+#camera{
+    width: 300px;
+    height: 300px;
+}
